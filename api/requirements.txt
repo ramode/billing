@@ -1,0 +1,9 @@
+uvloop
+aiohttp
+asyncpg
+cchardet
+aiodns
+aiohttp_session[aioredis]
+pytz
+cstruct
+
